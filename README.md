@@ -1,5 +1,10 @@
 # 💫 About Me:
-👨‍💻Hello! I'm a second-year Computer Science and Engineering  student currently pursuing my B.Tech degree from Model Engineering College.<br> I have a passion for exploring the fascinating world of technology and its applications.<br><br>I am enthusiastic about programming and enjoy solving challenging problems using various programming languages and tools.<br>I have experience in languages like C++, Java, C, and JavaScript, and I'm always eager to learn new technologies and expand my skill set.<br>Collaboration and teamwork are essential aspects of my learning process, and I thrive in environments where I can contribute to a collective goal<br><br>
+👨‍💻CSE undergrad @Govt. Model Engineering College, Kochi
+Passionate on Full Stack Development
+
+🌟 Skills & Expertise
+Web Development: HTML, Tailwind CSS, JavaScript, React, Node.js, Express.js
+Database Management: SQL, MongoDB
 
 
 ## 🌐 Socials:
