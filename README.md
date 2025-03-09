@@ -1,7 +1,7 @@
 # 💫 About Me:
-👨‍💻CSE undergrad @Govt. Model Engineering College, Kochi
+👨‍💻CSE undergrad @Govt. Model Engineering College, Kochi <br>
 Passionate on Full Stack Development
-<br>
+<br> <br>
 🌟 Skills & Expertise <br> 
 Web Development: HTML, Tailwind CSS, JavaScript, React, Node.js, Express.js 
 <br>
